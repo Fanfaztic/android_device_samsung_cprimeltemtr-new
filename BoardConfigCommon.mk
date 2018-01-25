@@ -70,7 +70,7 @@ BOARD_HAVE_BLUETOOTH_QCOM := true
 BLUETOOTH_HCI_USE_MCT := true
 
 # Custom RIL class
-BOARD_RIL_CLASS := ../../../device/samsung/a5-common/ril/
+BOARD_RIL_CLASS := ../../../device/samsung/cprimeltemtr/ril/
 
 # NFC
 BOARD_HAVE_NFC := true
